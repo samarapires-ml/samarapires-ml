@@ -1,48 +1,39 @@
 # Hi, I'm Samara 👋
 
-🎓 Master of Mathematics in Modeling, Data & Predictions — University of Alberta  
-🎓 Bachelor of Engineering in Computer Science — University of Mumbai  
-📍 Based in Canada  
+🎓 Master of Science in Modelling, Data & Predictions — University of Alberta
+🎓 Bachelor of Engineering in Computer Science — University of Mumbai
+📍 Canada
 
-## Professional Summary
+🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=0VXoCHMAAAAJ)
 
-I am a graduate student with a background in mathematics, statistics, and computer science, with strong interests in machine learning, data science, AI systems, and financial analytics.
+My work combines **research, applied data science, and engineering** to build data-driven systems. I’m particularly interested in **machine learning, statistical modelling, and AI systems applied to real-world problems in finance, healthcare, and technology.**
 
-I use this space to build and document projects that strengthen my skills in Python, data analysis, statistical modeling, and machine learning through practical, project-based learning.
+---
+
+## Research
+
+My research explores machine learning applications in **cybersecurity analytics, computer vision, and intelligent monitoring systems**.
+
+Publications available on my **[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=0VXoCHMAAAAJ)**.
+
+---
 
 ## Current Focus
 
-- Strengthening Python programming and problem-solving skills
-- Building end-to-end data analysis and machine learning projects
-- Developing a strong portfolio in data science, ML, and applied analytics
-
-## Featured Repositories
-
-- `practice-projects` — Practice work in Python, data analysis, data science, and machine learning
-- `netflix-data-analysis` — Exploratory data analysis and visualization project
-- More project repositories coming soon
-
-## Tools & Technologies
-
-**Languages**
-- Python
-- SQL
-
-**Data & ML**
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-**Areas of Interest**
-- Data Science
-- Machine Learning
-- Financial Analytics
-- AI Systems
+• Building applied **data science and machine learning projects**
+• Strengthening **Python and statistical modelling workflows**
+• Exploring **LLMs and AI systems** through practical applications
 
 ---
 
----
+## Projects
+
+Portfolio projects currently in progress:
+
+• Netflix Data Analysis
+• Stock Market Analysis
+• Fraud Detection Model
+• Customer Churn Prediction
 
 ## GitHub Stats
 
