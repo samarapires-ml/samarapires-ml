@@ -33,8 +33,10 @@ Portfolio projects currently in progress:
 • Fraud Detection Model
 • Customer Churn Prediction
 
+---
+
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarapires-ml&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarapires-ml&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarapires-ml&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarapires-ml&layout=compact&theme=github_dark&cache_seconds=1800)
