@@ -1,6 +1,7 @@
 # Hi, I'm Samara 👋
 
-🎓 Master's student in Statistics  
+🎓 Master of Mathemtics in Modeling, Data and Predictions @ University of Alberta
+🎓 Bachelor in Engineering - Computer Science @ University of Mumbai 
 💻 Interested in Machine Learning, Data Science, and AI Systems  
 📍 Based in Canada  
 
