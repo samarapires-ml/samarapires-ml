@@ -1,59 +1,41 @@
 # Hi, I'm Samara 👋
 
-🎓 Master of Mathemtics in Modeling, Data and Predictions @ University of Alberta
-🎓 Bachelor in Engineering - Computer Science @ University of Mumbai 
-💻 Interested in Machine Learning, Data Science, and AI Systems  
+🎓 Master of Mathematics in Modeling, Data & Predictions — University of Alberta  
+🎓 Bachelor of Engineering in Computer Science — University of Mumbai  
 📍 Based in Canada  
 
----
+## Professional Summary
 
-## About Me
+I am a graduate student with a background in mathematics, statistics, and computer science, with strong interests in machine learning, data science, AI systems, and financial analytics.
 
-I use this GitHub to document my journey learning and building projects in:
-
-- Python
-- Data Analysis
-- Data Science
-- Machine Learning
-- Financial Analytics
-
-I believe the best way to learn is by building real projects and sharing them openly.
-
----
+I use this space to build and document projects that strengthen my skills in Python, data analysis, statistical modeling, and machine learning through practical, project-based learning.
 
 ## Current Focus
 
-- Improving Python programming skills
-- Building end-to-end data science projects
-- Learning machine learning systems
+- Strengthening Python programming and problem-solving skills
+- Building end-to-end data analysis and machine learning projects
+- Developing a strong portfolio in data science, ML, and applied analytics
 
----
+## Featured Repositories
 
-## Repositories
-
-### Practice
-
-- **practice-projects**  
-  A collection of Python exercises and practice scripts.
-
-### Projects (coming soon)
-
-- Netflix Data Analysis  
-- Stock Market Analysis  
-- Fraud Detection Model  
-- Customer Churn Prediction  
-
----
+- `practice-projects` — Practice work in Python, data analysis, data science, and machine learning
+- `netflix-data-analysis` — Exploratory data analysis and visualization project
+- More project repositories coming soon
 
 ## Tools & Technologies
 
+**Languages**
 - Python
+- SQL
+
+**Data & ML**
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn
-- SQL
 
----
-
-⭐ More projects coming soon as I continue learning and building!
+**Areas of Interest**
+- Data Science
+- Machine Learning
+- Financial Analytics
+- AI Systems
