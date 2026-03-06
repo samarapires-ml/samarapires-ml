@@ -12,7 +12,7 @@ My work combines **research, applied data science, and engineering** to build da
 
 My research explores machine learning applications in **cybersecurity analytics, computer vision, and intelligent monitoring systems**.
 
-Publications available on my **[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=0VXoCHMAAAAJ)**.
+Publications available on my **[Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AF9nlQtR_YD4yvB5LZMaQZk-uwlrZZAPUczl50RI575t37I3T-SftlrHKPgffLhlNXVWIRoW_PJPW8V3DFROsA&user=FankImcAAAAJ)**.
 
 ---
 
