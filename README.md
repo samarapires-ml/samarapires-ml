@@ -42,8 +42,11 @@ I use this space to build and document projects that strengthen my skills in Pyt
 
 ---
 
+---
+
 ## GitHub Stats
 
-![Samara's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarapires-ml&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarapires-ml&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=samarapires-ml&show_icons=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarapires-ml&layout=compact" height="170"/>
+</p>
