@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Samara 👋
 
-<!--
-**samarapires-ml/samarapires-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Statistics  
+💻 Interested in Machine Learning, Data Science, and AI Systems  
+📍 Based in Canada  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I use this GitHub to document my journey learning and building projects in:
+
+- Python
+- Data Analysis
+- Data Science
+- Machine Learning
+- Financial Analytics
+
+I believe the best way to learn is by building real projects and sharing them openly.
+
+---
+
+## Current Focus
+
+- Improving Python programming skills
+- Building end-to-end data science projects
+- Learning machine learning systems
+
+---
+
+## Repositories
+
+### Practice
+
+- **practice-projects**  
+  A collection of Python exercises and practice scripts.
+
+### Projects (coming soon)
+
+- Netflix Data Analysis  
+- Stock Market Analysis  
+- Fraud Detection Model  
+- Customer Churn Prediction  
+
+---
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SQL
+
+---
+
+⭐ More projects coming soon as I continue learning and building!
