@@ -4,8 +4,6 @@
 🎓 Bachelor of Engineering in Computer Science — University of Mumbai
 📍 Canada
 
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=0VXoCHMAAAAJ)
-
 My work combines **research, applied data science, and engineering** to build data-driven systems. I’m particularly interested in **machine learning, statistical modelling, and AI systems applied to real-world problems in finance, healthcare, and technology.**
 
 ---
