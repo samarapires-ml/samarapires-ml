@@ -1,7 +1,7 @@
 # Hi, I'm Samara 👋
 
-🎓 Master of Science in Modelling, Data & Predictions — University of Alberta <br>
-🎓 Bachelor of Engineering in Computer Science — University of Mumbai <br>
+🎓 Master of Science in Modelling, Data & Predictions - University of Alberta <br>
+🎓 Bachelor of Engineering in Computer Science -  University of Mumbai <br>
 📍 Canada <br>
 
 My work combines **research, applied data science, and engineering** to build data-driven systems. I’m particularly interested in **machine learning, statistical modelling, and AI systems applied to real-world problems in finance, healthcare, and technology.**
